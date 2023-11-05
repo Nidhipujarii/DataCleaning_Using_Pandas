@@ -2,7 +2,7 @@
 ## Overview
 This project is designed to process and cleanse a customer list dataset. The primary goal is to prepare a dataset that can be used for calling initiatives by excluding any customers who have expressed a preference not to be contacted.
 ## Data Cleaning Process
-The script executes a series of data cleaning operations to prepare the dataset for the client's calling initiatives:
+The script executes a STEPS of data cleaning operations to prepare the dataset for the client's calling initiatives:
 
 **1. Remove Duplicates**: Initiates the cleaning process by removing any duplicate entries in the dataset to ensure data integrity.
 
